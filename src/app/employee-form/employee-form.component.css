@@ -1,0 +1,19 @@
+
+.bg{
+    background: radial-gradient(#e66465, #9198e5);
+}
+.title{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+.errorMsg{
+    color: rgb(143, 5, 5);
+    font-size: 15px;
+    font-weight: 700;
+}
+label{
+    font-weight: 700;
+    font-style: oblique;
+}
